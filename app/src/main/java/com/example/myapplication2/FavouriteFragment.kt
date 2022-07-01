@@ -30,6 +30,7 @@ class FavouriteFragment: Fragment(R.layout.fragment_favourite) {
                 findNavController().popBackStack(
                 )
             }
+
         }
 
     }
