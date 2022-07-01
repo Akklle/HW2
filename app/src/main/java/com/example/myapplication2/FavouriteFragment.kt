@@ -18,6 +18,8 @@ class FavouriteFragment: Fragment(R.layout.fragment_favourite) {
         if (text.isNotEmpty()) {
             Snackbar.make(view, text, Snackbar.LENGTH_LONG).show()
         }
+        //hhh
+
     }
 
     companion object {
